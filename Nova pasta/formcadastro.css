@@ -52,7 +52,10 @@ body{
     color: #6f7e2a;
     font-size: 11pt;
 }
-
+button a {
+    text-decoration: none;
+    color: #fff ;
+}
 #btn{
     margin-top: 10%;
     width: 100%;
@@ -60,7 +63,7 @@ body{
 }
 #btn button{
     font-family: 'Poppins', sans-serif;
-    background: chocolate;
+    background: rgb(93, 95, 68);
     width: 100%;
     height: 40px;
     border: none;
@@ -72,17 +75,4 @@ body{
 }
 #btn button:hover{
     background:black;
-}
-@keyframes iniciar{
-    0%{
-        top: -20%;
-        opacity: 0;
-        pointer-events: none;
-
-    }
-    100%{
-        top: 50%;
-        opacity: 100%;
-        pointer-events: all;
-    }
 }
