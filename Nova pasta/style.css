@@ -62,7 +62,7 @@
 :root{
     --main-color: #fd4646;
     --text-color: #171427;
-    --bg-color: #fff;
+    --bg-color: rgb(211, 211, 211);
 
 }
 
