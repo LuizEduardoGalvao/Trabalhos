@@ -60,7 +60,7 @@
 /* - */
 
 :root{
-    --main-color: #fd4646;
+    --main-color: #66704b;
     --text-color: #171427;
     --bg-color: rgb(211, 211, 211);
 
@@ -70,7 +70,8 @@ img{
     width: 100%;
 }
 body{
-    color: var(--text-color); 
+    /* color: var(--text-color); */
+    background-image: url(https://wallpaperboat.com/wp-content/uploads/2020/03/grey-texture-background-hd-1.jpg); 
 }
 .container{
     max-width: 1068px;

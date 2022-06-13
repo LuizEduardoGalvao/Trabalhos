@@ -17,6 +17,10 @@ html {
     text-decoration: none;
     font-weight: 400
 }
+.bx {
+    color:rgb(0, 255, 255);
+    
+}
 .slider{
     background-repeat: no-repeat;
     background-size: cover;
@@ -63,10 +67,10 @@ header{
         background-image: url('ousbanner.avif');
     }
     20.01%{
-        background-image: url('img1.webp');
+        background-image: url(https://streetwearbr.com/wp-content/uploads/2018/09/huf-spitfire-collab-2018-04.jpg);
     }
     40%{
-        background-image: url('img1.webp');
+        background-image: url(https://streetwearbr.com/wp-content/uploads/2018/09/huf-spitfire-collab-2018-04.jpg);
     }
     40.01%{
         background-image: url('img2.jpg');
