@@ -10,6 +10,11 @@ body{
     background-color: gray;
     background-image: url(https://p4.wallpaperbetter.com/wallpaper/718/474/522/steel-gray-metal-minimalism-wallpaper-preview.jpg);
 }
+#form .vol{
+    text-decoration: none;
+    color: rgb(255, 0, 0);
+    margin-left: 120px;
+}
 #form{
     position: relative;
     top: 50%;
@@ -27,7 +32,9 @@ body{
 .title{
     font-size: 1.8em;
     margin-bottom: 10%;
+    text-align: center;
 }
+
 
 .input{
     min-width: 280px;
